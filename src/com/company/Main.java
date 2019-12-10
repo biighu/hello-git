@@ -6,7 +6,7 @@ public class Main {
         // write your code here
         System.out.println("Hi~");
         say("yumeng");
-        System.out.println("Sha mao");
+        System.out.println("nizhege Sha mao has problem");
     }
 
     static void say(String hello) {
